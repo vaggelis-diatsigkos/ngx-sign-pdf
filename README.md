@@ -1,4 +1,4 @@
-# NgxSignPdf
+# ngx-sign-pdf
 
 This is a simple implementation of rendering, signing & saving a PDF making use of <a href="https://github.com/parallax/jsPDF">jsPDF</a> & <a href="https://github.com/mozilla/pdfjs-dist">pdfjs-dist</a>.
 
