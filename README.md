@@ -4,7 +4,7 @@ This is a simple implementation of rendering, signing & saving a PDF making use 
 
 # Sample
 
-You can find a live sample <a heref="https://vdiatsigkosdemos.z1.web.core.windows.net/ngx-sign-pdf">here</a>.
+You can find a live sample <a href="https://vdiatsigkosdemos.z1.web.core.windows.net/ngx-sign-pdf">here</a>.
 
 ## Development server
 
